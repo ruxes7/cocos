@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  MyCocosApp
+
+  Created by 吉田光 on 2016/04/12火.
+
+*/
+
+CFBundleDisplayName = "Sushi Train";

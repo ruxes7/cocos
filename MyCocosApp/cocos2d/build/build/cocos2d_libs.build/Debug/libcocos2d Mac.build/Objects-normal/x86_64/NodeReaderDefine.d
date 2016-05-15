@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/HY/Games/MyCocosApp/cocos2d/cocos/editor-support/cocostudio/WidgetReader/NodeReaderDefine.cpp \
+  /Users/HY/Games/MyCocosApp/cocos2d/cocos/editor-support/cocostudio/WidgetReader/NodeReaderDefine.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/base/ObjectFactory.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/base/CCRef.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/base/ccConfig.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/HY/Games/MyCocosApp/cocos2d/build/../cocos/platform/mac/CCPlatformDefine-mac.h
